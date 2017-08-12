@@ -1,0 +1,43 @@
+{
+  "contexts": [
+    {
+      "pos": "15.6",
+      "context": "ContentType",
+      "contentType": {
+		"type": "MusicVideo",
+		"id": "1234",
+		"sources": [
+			{
+				"source": "spottify",
+				"src": "http://open.spotify.com/track/4COmeKH1pLNNpXcgtMcyQH"
+			}
+		]
+	  }
+    },
+    {
+      "pos": "10",
+      "context": "Location",
+      "location": {
+		"name": "Auckland, New Zealand",
+		"lat": "174.4",
+		"lon": "39.5",
+		"zoom": "3"
+	  }
+    },
+    {
+      "pos": "15.6",
+      "context": "Title",
+      "title": "Wellington"
+    },
+    {
+      "pos": "15.6",
+      "context": "Location",
+      "location": {
+		"name": "Wellington, New Zealand",
+		"lat": "174.45",
+		"lon": "39.5",
+		"zoom": "4"
+	  }
+    },
+]
+}
