@@ -1,7 +1,7 @@
 {
   "jobs": [
     {
-      "company_name": "Blinkist",
+      "pos": "0",
       "description": "",
       "featured": "false",
       "featured_text": "",
@@ -19,7 +19,7 @@
       }
     },
     {
-      "company_name": "EF Education First",
+      "pos": "10.3",
       "description": "",
       "featured": "false",
       "featured_text": "",
@@ -37,7 +37,7 @@
       }
     },
     {
-      "company_name": "Clause",
+      "pos": "18.1",
       "description": "",
       "featured": "false",
       "featured_text": "",
@@ -54,5 +54,5 @@
         "country": "US"
       }
     }
-  ]
+]
 }
