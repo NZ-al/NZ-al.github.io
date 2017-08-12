@@ -1,0 +1,58 @@
+{
+  "jobs": [
+    {
+      "company_name": "Blinkist",
+      "description": "",
+      "featured": "false",
+      "featured_text": "",
+      "remote": "false",
+      "term": "Full Time",
+      "title": "Rails Frontend Developer (m/f)",
+      "url": "http://codepen.io/url/job/rPbjyz",
+      "hashid": "nEenWk",
+      "address": {
+        "address1": "",
+        "city": "Berlin",
+        "state_prov": "",
+        "postal_code": "10259",
+        "country": "DE"
+      }
+    },
+    {
+      "company_name": "EF Education First",
+      "description": "",
+      "featured": "false",
+      "featured_text": "",
+      "remote": "false",
+      "term": "Full Time",
+      "title": "Senior UI Developer",
+      "url": "http://codepen.io/url/job/zgLRdZ",
+      "hashid": "NzDqQA",
+      "address": {
+        "address1": "2 Education Circle",
+        "city": "Cambridge",
+        "state_prov": "MA",
+        "postal_code": "02141",
+        "country": "US"
+      }
+    },
+    {
+      "company_name": "Clause",
+      "description": "",
+      "featured": "false",
+      "featured_text": "",
+      "remote": "false",
+      "term": "Full Time",
+      "title": "Front End Developer",
+      "url": "http://codepen.io/url/job/nGNeBr",
+      "hashid": "gzMGJE",
+      "address": {
+        "address1": "200 Broadway",
+        "city": "New York",
+        "state_prov": "NY",
+        "postal_code": "10038",
+        "country": "US"
+      }
+    }
+  ]
+}
